@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ダーツdeトリップ</string>
+    <string name="title">ダーツdeトリップ</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_effect">EffectActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dart">画面タップでダーツを投げる</string>
+</resources>
